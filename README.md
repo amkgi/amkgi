@@ -19,7 +19,7 @@ Also, take a look at my pins, maybe you will find something interesting for your
   - Implemented **[Intel SGX](https://www.intel.com/content/www/us/en/architecture-and-technology/software-guard-extensions.html)** support in VMs. A [video](https://youtu.be/rlL-epWgO0k?feature=shared) about it and info on [Intel's](https://www.intel.com/content/www/us/en/partner/showcase/offering/a5b3b0000004fQBAAY/gcore-confidential-cloud-computing-with-intel-sgx.html) site.
  
 #### Certificates 🎓
+<a href="https://coa.edu.mirantis.com/verify/?cert=COA-2300-110711-0100&name=Alexey+Kashavkin"><img width="128" alt="coa" title="Checking on Mirantis (JSON)" src="https://github.com/user-attachments/assets/dd6cc498-b276-4368-a8a7-84cebc5959e6"></a>
 <a href="https://rhtapps.redhat.com/verify?certId=230-147-373"><img width="128" alt="rhcsa-rhos" title="Checking on Red Hat" src="https://github.com/amkgi/amkgi/assets/26279705/40542dd4-ead4-49a7-97ce-bd4e05bc6341"></a>
-<a href="https://coa.edu.mirantis.com/verify/?cert=COA-2300-110711-0100&name=Alexey+Kashavkin"><img width="128" alt="coa" title="Checking on Mirantis (JSON)" src="https://github.com/amkgi/amkgi/assets/26279705/6c2ac3ba-35b7-4a79-bb83-9b0cc2c8415d"></a>
 <a href="https://www.credly.com/badges/b188dea1-47d1-44d2-b7a4-d49a634ad491/public_url"><img width="128" alt="lfcs" title="Checking on Credly" src="https://github.com/user-attachments/assets/7dcc4ac2-caf6-401e-a985-7db5e52470a8"></a>
 
